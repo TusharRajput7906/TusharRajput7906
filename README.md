@@ -1,4 +1,4 @@
-Hi 👋, I'm Tushar Rajput
+Hi 👋, I'm Tushar Rajput  
 Full Stack Developer | MERN Stack | DSA Learner 🚀
 
 ---
