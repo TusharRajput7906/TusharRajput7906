@@ -46,7 +46,6 @@ Full Stack Developer | MERN Stack | DSA Learner 🚀
 
 * DSA Practice (LeetCode)
 * Backend Development
-* System Design Basics
 
 ---
 
