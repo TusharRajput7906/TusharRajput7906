@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**TusharRajput7906/TusharRajput7906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | DSA Learner 🚀</h3>
+Hi 👋, I'm Tushar Rajput
+Full Stack Developer | MERN Stack | DSA Learner 🚀
 
 ---
 
@@ -48,20 +42,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharrajput\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrajput\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tusharrajput\&theme=tokyonight)
-
----
-
 ## 📌 Current Focus
 
 * DSA Practice (LeetCode)
@@ -73,18 +53,9 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 
 * Email: tusharRajput2023@gmail.com
-* LinkedIn: YOUR_LINKEDIN
 
 ---
 
 ⭐ From [tusharrajput](https://github.com/tusharrajput)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
