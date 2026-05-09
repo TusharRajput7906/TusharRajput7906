@@ -52,7 +52,7 @@ Full Stack Developer | MERN Stack | DSA Learner 🚀
 ## 📫 Connect With Me
 
 * Email: tusharrajput2023@gmail.com
-* LinkedIn: linkedin.com/in/tushar-rajput-88a837279
+* LinkedIn: www.linkedin.com/in/tushar-rajput-1003753b0
 
 
 
